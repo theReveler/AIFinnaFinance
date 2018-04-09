@@ -1,0 +1,2 @@
+# AIFinnaFinance
+AI stock trading.
