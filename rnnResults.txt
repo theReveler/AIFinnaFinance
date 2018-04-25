@@ -1,0 +1,21 @@
+Sigmoid:
+Loss (test-set):        0.00014668356743641198
+Loss (training-set):    0.00014384
+                        0.0000028
+Epochs: 14
+
+ReLU:
+10:20pm - 10:32pm
+
+Loss (test-set):        0.00010762118472484872
+Loss (training-set):    0.000054348
+                        0.000053
+Epochs: 11
+
+ReLU w/ S&P 500:
+11:11pm - 11:17pm
+Learning Rate: 1e-3 -> 1e-4
+Min Learning Rate: 1e-4 -> 1e-5
+
+Loss (test-set):        0.00012711476301774383
+Loss (training-set):    0.000063570
